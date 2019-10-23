@@ -1,2 +1,3 @@
-pi = 3.1416
-print(pi)
+import math
+print(math.pi)
+
